@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="31" started-at="2016-05-17T08:58:05Z" finished-at="2016-05-17T08:58:05Z">
+  <suite name="Suite1" duration-ms="47" started-at="2016-05-17T11:11:09Z" finished-at="2016-05-17T11:11:09Z">
     <groups>
     </groups>
-    <test name="exampletest1" duration-ms="31" started-at="2016-05-17T08:58:05Z" finished-at="2016-05-17T08:58:05Z">
+    <test name="exampletest1" duration-ms="47" started-at="2016-05-17T11:11:09Z" finished-at="2016-05-17T11:11:09Z">
       <class name="testNG.TestngIntro1">
-        <test-method status="PASS" signature="login()[pri:0, instance:testNG.TestngIntro1@73f792cf]" name="login" is-config="true" duration-ms="15" started-at="2016-05-17T04:58:05Z" finished-at="2016-05-17T04:58:05Z">
+        <test-method status="PASS" signature="login()[pri:0, instance:testNG.TestngIntro1@73f792cf]" name="login" is-config="true" duration-ms="31" started-at="2016-05-17T07:11:09Z" finished-at="2016-05-17T07:11:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="login()[pri:0, instance:testNG.TestngIntro1@73f792cf]" name="login" is-config="true" duration-ms="0" started-at="2016-05-17T04:58:05Z" finished-at="2016-05-17T04:58:05Z">
+        <test-method status="PASS" signature="login()[pri:0, instance:testNG.TestngIntro1@73f792cf]" name="login" is-config="true" duration-ms="0" started-at="2016-05-17T07:11:09Z" finished-at="2016-05-17T07:11:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="checkmail()[pri:0, instance:testNG.TestngIntro1@73f792cf]" name="checkmail" duration-ms="0" started-at="2016-05-17T04:58:05Z" finished-at="2016-05-17T04:58:05Z">
+        <test-method status="PASS" signature="checkmail()[pri:0, instance:testNG.TestngIntro1@73f792cf]" name="checkmail" duration-ms="0" started-at="2016-05-17T07:11:09Z" finished-at="2016-05-17T07:11:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkmail -->
-        <test-method status="PASS" signature="logout()[pri:0, instance:testNG.TestngIntro1@73f792cf]" name="logout" is-config="true" duration-ms="0" started-at="2016-05-17T04:58:05Z" finished-at="2016-05-17T04:58:05Z">
+        <test-method status="PASS" signature="logout()[pri:0, instance:testNG.TestngIntro1@73f792cf]" name="logout" is-config="true" duration-ms="0" started-at="2016-05-17T07:11:09Z" finished-at="2016-05-17T07:11:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method status="PASS" signature="logout()[pri:0, instance:testNG.TestngIntro1@73f792cf]" name="logout" is-config="true" duration-ms="0" started-at="2016-05-17T04:58:05Z" finished-at="2016-05-17T04:58:05Z">
+        <test-method status="PASS" signature="logout()[pri:0, instance:testNG.TestngIntro1@73f792cf]" name="logout" is-config="true" duration-ms="0" started-at="2016-05-17T07:11:09Z" finished-at="2016-05-17T07:11:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method status="PASS" signature="sendEmail()[pri:0, instance:testNG.TestngIntro1@73f792cf]" name="sendEmail" duration-ms="0" started-at="2016-05-17T04:58:05Z" finished-at="2016-05-17T04:58:05Z">
+        <test-method status="PASS" signature="sendEmail()[pri:0, instance:testNG.TestngIntro1@73f792cf]" name="sendEmail" duration-ms="0" started-at="2016-05-17T07:11:09Z" finished-at="2016-05-17T07:11:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sendEmail -->
