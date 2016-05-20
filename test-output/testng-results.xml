@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="56" started-at="2016-05-17T08:54:38Z" finished-at="2016-05-17T08:54:38Z">
+  <suite name="Default suite" duration-ms="171" started-at="2016-05-20T06:36:11Z" finished-at="2016-05-20T06:36:11Z">
     <groups>
     </groups>
-    <test name="exampletest1" duration-ms="56" started-at="2016-05-17T08:54:38Z" finished-at="2016-05-17T08:54:38Z">
+    <test name="Default test" duration-ms="171" started-at="2016-05-20T06:36:11Z" finished-at="2016-05-20T06:36:11Z">
       <class name="testNG.TestngIntro1">
-        <test-method status="PASS" signature="login()[pri:0, instance:testNG.TestngIntro1@3f3afe78]" name="login" is-config="true" duration-ms="13" started-at="2016-05-17T04:54:38Z" finished-at="2016-05-17T04:54:38Z">
+        <test-method status="PASS" signature="login()[pri:0, instance:testNG.TestngIntro1@458ad742]" name="login" is-config="true" duration-ms="31" started-at="2016-05-20T02:36:11Z" finished-at="2016-05-20T02:36:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="checkmail()[pri:0, instance:testNG.TestngIntro1@3f3afe78]" name="checkmail" duration-ms="11" started-at="2016-05-17T04:54:38Z" finished-at="2016-05-17T04:54:38Z">
+        <test-method status="PASS" signature="checkmail()[pri:0, instance:testNG.TestngIntro1@458ad742]" name="checkmail" duration-ms="32" started-at="2016-05-20T02:36:11Z" finished-at="2016-05-20T02:36:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkmail -->
-        <test-method status="PASS" signature="login()[pri:0, instance:testNG.TestngIntro1@3f3afe78]" name="login" is-config="true" duration-ms="1" started-at="2016-05-17T04:54:38Z" finished-at="2016-05-17T04:54:38Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- login -->
-        <test-method status="PASS" signature="logout()[pri:0, instance:testNG.TestngIntro1@3f3afe78]" name="logout" is-config="true" duration-ms="0" started-at="2016-05-17T04:54:38Z" finished-at="2016-05-17T04:54:38Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- logout -->
-        <test-method status="PASS" signature="sendEmail()[pri:0, instance:testNG.TestngIntro1@3f3afe78]" name="sendEmail" duration-ms="0" started-at="2016-05-17T04:54:38Z" finished-at="2016-05-17T04:54:38Z">
+        <test-method status="PASS" signature="sendEmail()[pri:0, instance:testNG.TestngIntro1@458ad742]" name="sendEmail" duration-ms="15" started-at="2016-05-20T02:36:11Z" finished-at="2016-05-20T02:36:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sendEmail -->
-        <test-method status="PASS" signature="logout()[pri:0, instance:testNG.TestngIntro1@3f3afe78]" name="logout" is-config="true" duration-ms="0" started-at="2016-05-17T04:54:38Z" finished-at="2016-05-17T04:54:38Z">
+        <test-method status="PASS" signature="login()[pri:0, instance:testNG.TestngIntro1@458ad742]" name="login" is-config="true" duration-ms="0" started-at="2016-05-20T02:36:11Z" finished-at="2016-05-20T02:36:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:testNG.TestngIntro1@458ad742]" name="logout" is-config="true" duration-ms="0" started-at="2016-05-20T02:36:11Z" finished-at="2016-05-20T02:36:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:testNG.TestngIntro1@458ad742]" name="logout" is-config="true" duration-ms="0" started-at="2016-05-20T02:36:11Z" finished-at="2016-05-20T02:36:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logout -->
       </class> <!-- testNG.TestngIntro1 -->
-    </test> <!-- exampletest1 -->
-  </suite> <!-- Suite1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
