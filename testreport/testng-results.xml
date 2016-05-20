@@ -2,35 +2,35 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="53" started-at="2016-05-20T09:57:52Z" finished-at="2016-05-20T09:57:52Z">
+  <suite name="Suite1" duration-ms="46" started-at="2016-05-20T10:41:40Z" finished-at="2016-05-20T10:41:40Z">
     <groups>
     </groups>
-    <test name="exampletest1" duration-ms="53" started-at="2016-05-20T09:57:52Z" finished-at="2016-05-20T09:57:52Z">
+    <test name="exampletest1" duration-ms="46" started-at="2016-05-20T10:41:40Z" finished-at="2016-05-20T10:41:40Z">
       <class name="testNG.TestngIntro1">
-        <test-method status="PASS" signature="login()[pri:0, instance:testNG.TestngIntro1@148080bb]" name="login" is-config="true" duration-ms="27" started-at="2016-05-20T05:57:52Z" finished-at="2016-05-20T05:57:52Z">
+        <test-method status="PASS" signature="login()[pri:0, instance:testNG.TestngIntro1@148080bb]" name="login" is-config="true" duration-ms="31" started-at="2016-05-20T06:41:40Z" finished-at="2016-05-20T06:41:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="checkmail()[pri:0, instance:testNG.TestngIntro1@148080bb]" name="checkmail" duration-ms="0" started-at="2016-05-20T05:57:52Z" finished-at="2016-05-20T05:57:52Z">
+        <test-method status="PASS" signature="checkmail()[pri:0, instance:testNG.TestngIntro1@148080bb]" name="checkmail" duration-ms="0" started-at="2016-05-20T06:41:40Z" finished-at="2016-05-20T06:41:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkmail -->
-        <test-method status="PASS" signature="logout()[pri:0, instance:testNG.TestngIntro1@148080bb]" name="logout" is-config="true" duration-ms="0" started-at="2016-05-20T05:57:52Z" finished-at="2016-05-20T05:57:52Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- logout -->
-        <test-method status="PASS" signature="logout()[pri:0, instance:testNG.TestngIntro1@148080bb]" name="logout" is-config="true" duration-ms="0" started-at="2016-05-20T05:57:52Z" finished-at="2016-05-20T05:57:52Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- logout -->
-        <test-method status="PASS" signature="sendEmail()[pri:0, instance:testNG.TestngIntro1@148080bb]" name="sendEmail" duration-ms="0" started-at="2016-05-20T05:57:52Z" finished-at="2016-05-20T05:57:52Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- sendEmail -->
-        <test-method status="PASS" signature="login()[pri:0, instance:testNG.TestngIntro1@148080bb]" name="login" is-config="true" duration-ms="0" started-at="2016-05-20T05:57:52Z" finished-at="2016-05-20T05:57:52Z">
+        <test-method status="PASS" signature="login()[pri:0, instance:testNG.TestngIntro1@148080bb]" name="login" is-config="true" duration-ms="0" started-at="2016-05-20T06:41:40Z" finished-at="2016-05-20T06:41:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:testNG.TestngIntro1@148080bb]" name="logout" is-config="true" duration-ms="0" started-at="2016-05-20T06:41:40Z" finished-at="2016-05-20T06:41:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:testNG.TestngIntro1@148080bb]" name="logout" is-config="true" duration-ms="0" started-at="2016-05-20T06:41:40Z" finished-at="2016-05-20T06:41:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="sendEmail()[pri:0, instance:testNG.TestngIntro1@148080bb]" name="sendEmail" duration-ms="0" started-at="2016-05-20T06:41:40Z" finished-at="2016-05-20T06:41:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendEmail -->
       </class> <!-- testNG.TestngIntro1 -->
     </test> <!-- exampletest1 -->
   </suite> <!-- Suite1 -->
