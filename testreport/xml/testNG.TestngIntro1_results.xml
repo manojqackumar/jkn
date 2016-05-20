@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="exampletest1"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.000">
+  <properties />
+  
+  
+            <testcase name="sendEmail" time="0.000" classname="testNG.TestngIntro1" />
+                <testcase name="checkmail" time="0.000" classname="testNG.TestngIntro1" />
+      
+</testsuite>
